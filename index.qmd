@@ -1,5 +1,8 @@
 ---
 title: "Home Page"
+about:
+  template: jolla
+  image: images/Jiaming.jpg
 ---
 
 ## 
