@@ -12,6 +12,5 @@ website:
 
 format:
   html:
-    theme: quartz
-    # css: my-style.css
-    # toc: true
+    theme: Litera
+    mainfont: "'Roboto', sans-serif"
