@@ -1,7 +1,7 @@
 ---
 title: "Home Page"
 about:
-  template: jolla
+  template: trestles
   image: images/Jiaming.jpg
   links:
     - icon: buildings
@@ -12,4 +12,16 @@ about:
       href: https://jliucx.github.io/sceptre/
 ---
 
-## 
+**Student Ambassador**
+
+Physical Science Division, UChicago
+
+• Provided information as well as constructive opinions to help prospective students at UChicago
+
+• Gave advice on course selection and research prospects to year-1 Master’s students from the Physical Science Division at UChicago.
+
+**Research interest**s
+
+• Mainly on perturb-seq methods.
+
+• Developed non-parametric multivariate methods to analyze large-scale perturb-seq data and identify CRIPSR perturbation effects on gene sets

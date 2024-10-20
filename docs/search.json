@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "Student Ambassador\nPhysical Science Division, UChicago\n• Provided information as well as constructive opinions to help prospective students at UChicago\n• Gave advice on course selection and research prospects to year-1 Master’s students from the Physical Science Division at UChicago.\nResearch interests\n• Mainly on perturb-seq methods.\n• Developed non-parametric multivariate methods to analyze large-scale perturb-seq data and identify CRIPSR perturbation effects on gene sets"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",

@@ -3,11 +3,11 @@
     "path": "~/GitHub/jliucx.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3786626258",
+    "hash": "3912026558",
     "contents": "",
     "dirty": false,
     "created": 1729385001728.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 2,
     "properties": {
         "rmdVisualMode": "true",
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,0",
-        "scrollLine": "0",
+        "cursorPosition": "0,0",
+        "scrollLine": "8",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "200:0"
+        "rmdVisualModeLocation": "137:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1729387705,
+    "lastKnownWriteTime": 1729388415,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1729387705543,
+    "last_content_update": 1729388415818,
     "read_only": false,
     "read_only_alternatives": []
 }
